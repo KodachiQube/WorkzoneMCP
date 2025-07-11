@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "App__WorkzoneApiUrl": "https://api.workzone.com",
+    "App__WorkzoneApiKey": "your-api-key-here",
+    "App__TimeoutSeconds": "30",
+    "App__MaxRetryAttempts": "3",
+    "App__RetryDelayMilliseconds": "1000"
+  }
+}
